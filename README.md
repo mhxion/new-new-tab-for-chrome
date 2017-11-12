@@ -4,7 +4,7 @@
 
 This module has been created for developers who are willing to make themes/extensions for Google Chrome that modifies the default newtab page `chome://newtab`. You can add your custom styling/JS to tweak the newtab page. e.g. hiding the most visited tiles, decorating the search bar, replacing the Google logo with whatever you like and so on.  
 
-> A simple mockup. Icons credit *Wissawa Khamsriwath* 
+> A simple mockup. Icons credit: *Wissawa Khamsriwath* 
 ![new_new_tab_simple_mockup](https://s17.postimg.org/6euvr77z3/new_new_tab_simple_mockup.jpg.jpg)
 
 
