@@ -1,0 +1,9 @@
+/* Put your style sheets here to modify the newtab page. There're already few tweaks written that hide most visited tiles. */
+
+#mv-tiles {
+    display: none !important;
+}
+
+#prm-pt {
+    visibility: visible;
+}
